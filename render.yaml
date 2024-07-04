@@ -1,13 +1,13 @@
 services:
   - type: web
-    name: IZUMI-V3
+    name: SABAN-V1
     env: node
     branch: main
     repo: https://github.com/sataniceypz/Izumi-v3.git
     buildCommand: npm install
     startCommand: npm start
     plan: free
-    autoDeploy: false
+    autoDeploy: True
     envVars:
       - key: SESSION_ID
         sync: false
