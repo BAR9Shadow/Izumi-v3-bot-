@@ -14,7 +14,7 @@ izumi ({
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: '120363298577467093@newsletter',
-        newsletterName: "Iᴢᴜᴍɪ-ᴠ3",
+        newsletterName: "SABAN-V1",
         serverMessageId: -1
       }
     },
@@ -36,7 +36,7 @@ const { result } = await getJson(apiUrl + 'api/anime/anivideo?apikey=izumi-v3');
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: '120363298577467093@newsletter',
-        newsletterName: "Iᴢᴜᴍɪ-ᴠ3",
+        newsletterName: "SABAN-V1",
         serverMessageId: -1
       }
     },
@@ -57,7 +57,7 @@ const { result } = await getJson(apiUrl + 'api/randomvideo/msts?apikey=izumi-v3'
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: '120363298577467093@newsletter',
-        newsletterName: "Iᴢᴜᴍɪ-ᴠ3",
+        newsletterName: "SABAN-V1",
         serverMessageId: -1
       }
     },
@@ -78,7 +78,7 @@ const url = apiUrl + 'api/anime/onepiece?apikey=izumi-v3'
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: '120363298577467093@newsletter',
-        newsletterName: "Iᴢᴜᴍɪ-ᴠ3",
+        newsletterName: "SABAN-V1",
         serverMessageId: -1
       }
     },
@@ -99,7 +99,7 @@ const url = apiUrl + 'api/anime/demonslayer?apikey=izumi-v3'
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: '120363298577467093@newsletter',
-        newsletterName: "Iᴢᴜᴍɪ-ᴠ3",
+        newsletterName: "SABAN-V1",
         serverMessageId: -1
       }
     },
