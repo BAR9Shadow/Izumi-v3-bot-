@@ -17,7 +17,7 @@ izumi(
       buff,
       {
         mimetype: "image/jpeg",
-        caption: "Iᴢᴜᴍɪ",
+        caption: "saban",
       },
       "image"
     );
