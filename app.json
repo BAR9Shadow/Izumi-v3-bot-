@@ -1,7 +1,7 @@
 {
-  "name": "Izumi-v3",
-  "description": "Izumi a Multi Device WhatsApp bot",
-  "logo": "https://i.imgur.com/Hgiamot.jpeg",
+  "name": "Saban v1",
+  "description": "Saban a Multi Device WhatsApp bot",
+  "logo": "https://imgur.com/0tJAGE4.jpeg",
   "keywords": ["whatsapp"],
   "repository": "https://github.com/sataniceypz/Izumi-v3",
   "website": "https://eypz-izumi.vercel.app",
@@ -28,27 +28,27 @@
     "MENU_URL": {
       "description": "Add URL of image or video",
       "required": false,
-      "value": "https://i.imgur.com/8H2hM6D.jpeg"
+      "value": "https://imgur.com/0tJAGE4.jpeg"
     },
     "BOT_NAME": {
       "description": "Enter your bot name",
       "required": false,
-      "value": "Iᴢᴜᴍɪ-ᴍᴅ"
+      "value": "Saban-v1"
     },
     "STICKER_PACKNAME": {
       "description": "Enter your sticker pack name",
       "required": false,
-      "value": "Iᴢᴜᴍɪ-ᴍᴅ"
+      "value": "Saban-v1"
     },
     "AUDIO_DATA": {
       "description": "Enter your audio data (title, author, link)",
       "required": false,
-      "value": "enjoy this song, Iᴢᴜᴍɪ-v3, https://i.imgur.com/cO0TZJv.jpeg"
+      "value": "enjoy this song, Saban v1, https://imgur.com/0tJAGE4.jpeg"
     },
     "OWNER_NAME": {
       "description": "Enter your name",
       "required": false,
-      "value": "Eʏᴘᴢ"
+      "value": "Saban"
     },
     "CAPTION": {
       "description": "Enter your caption",
@@ -63,17 +63,17 @@
     "AUTHOR": {
       "description": "Enter sticker pack author name",
       "required": false,
-      "value": "Eypz"
+      "value": "saban"
     },
     "SUDO": {
       "description": "Add Sudo number",
       "required": false,
-      "value": "919876543210"
+      "value": "212621469696"
     },
     "MODE": {
       "description": "Bot work type",
       "required": true,
-      "value": "private"
+      "value": "public"
     }
   },
   "addons": [
